@@ -4,5 +4,23 @@
 A queue in data structures is a linear collection that follows the First-In-First-Out (FIFO) principle, where elements are added at one end (rear) and removed from the other end (front). It is commonly used for managing tasks or processes in a sequential manner.
 
 ## Concepts that we used in this theme are
+Class
 
+Constructor
+
+enqueue()
+
+Conditional Statements
+
+dequeue()
+
+Comparisions
+
+peek()
+
+isEmpty()
+
+size()
+
+Function
 
